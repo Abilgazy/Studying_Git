@@ -1,9 +1,9 @@
-
-
-
-dir
-
-
-
-
-         all
+<!DOCTYPE html>
+<html>
+    <head>
+        Hello World 
+    </head>
+    <body>
+Я учусь работать в Git
+    </body>
+</html>
